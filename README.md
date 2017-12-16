@@ -41,3 +41,14 @@ There are 2 ways of doing this;
 >Open Discord and Spotify
 
 >Type out ```node main.js```
+
+
+### Want to make it run continuously without having the cmd line window open?
+
+>Open a command line window in your app directory
+
+>Type ```npm install pm2 -g``` into the console
+
+>Once thats done put ```pm2 start main.js --name "spotify"```
+
+>Thats it, it will now run in your background, if you wish to close it do ```pm2 stop spotify```
