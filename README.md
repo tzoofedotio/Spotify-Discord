@@ -30,11 +30,11 @@ There are two ways of doing this:
 
 ### Cloning the repo
 
->Open a command line window in a folder youd like to download this to
+>Open a command line window in a folder you'd like to download this to
 
 >Type out ```git clone https://github.com/tzoofedotio/Spotify-Discord.git```
 
->Once it finished ```cd Spotify-Discord```
+>Once it's finished ```cd Spotify-Discord```
 
 >Type out ```npm install```
 
@@ -49,6 +49,6 @@ There are two ways of doing this:
 
 >Type ```npm install pm2 -g``` into the console
 
->Once thats done put ```pm2 start main.js --name "spotify"```
+>Once that's done enter ```pm2 start main.js --name "spotify"```
 
->Thats it, it will now run in your background, if you wish to close it do ```pm2 stop spotify```
+>That's it, it will now run in your background. If you wish to close it do ```pm2 stop spotify```
