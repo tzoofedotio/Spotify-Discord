@@ -26,4 +26,4 @@ There are 2 ways of doing this;
 >Type out *node main.js*
 
 
-###Cloning the repo
+### Cloning the repo
