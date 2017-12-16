@@ -34,6 +34,8 @@ There are 2 ways of doing this;
 
 >Type out ```git clone https://github.com/tzoofedotio/Spotify-Discord.git```
 
+>Once it finished ```cd Spotify-Discord```
+
 >Type out *npm install*
 
 >Open Discord and Spotify
