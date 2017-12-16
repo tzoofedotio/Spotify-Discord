@@ -5,11 +5,11 @@
 
 ![img](https://apple.isgay.lol/R9mYIgq.png)
 
-## You need those in order for this to work
+## You need these in order for this to work
 >Git and NodeJS
 
 ## How to install?
-There are 2 ways of doing this;
+There are two ways of doing this:
 
 
 ### Downloading the zip
