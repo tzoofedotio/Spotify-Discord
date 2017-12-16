@@ -36,8 +36,8 @@ There are 2 ways of doing this;
 
 >Once it finished ```cd Spotify-Discord```
 
->Type out *npm install*
+>Type out ```npm install```
 
 >Open Discord and Spotify
 
->Type out *node main.js*
+>Type out ```node main.js```
