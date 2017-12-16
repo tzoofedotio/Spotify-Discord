@@ -2,7 +2,7 @@
 const path = require('path');
 const url = require('url');
 const DiscordRPC = require('discord-rpc');
-const nodeSpotifyWebHelper = require('node-spotify-webhelper');
+const nodeSpotifyWebHelper = require('./spotifything.js');
 const spotify = new nodeSpotifyWebHelper.SpotifyWebHelper();
 
 const ClientId = '385379819216437248';
