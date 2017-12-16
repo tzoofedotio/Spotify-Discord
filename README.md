@@ -13,8 +13,17 @@ There are 2 ways of doing this;
 
 >Download NodeJS
 
+>Download git
+
 >Extract the zip to a folder
 
 >Open a cmd line in that folder's directory
 
+>Type out *npm install*
+
+>Open Discord and Spotify
+
 >Type out *node main.js*
+
+
+###Cloning the repo
