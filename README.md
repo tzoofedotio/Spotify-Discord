@@ -21,11 +21,11 @@ There are 2 ways of doing this;
 
 >Open a cmd line in that folder's directory
 
->Type out *npm install*
+>Type out ```npm install```
 
 >Open Discord and Spotify
 
->Type out *node main.js*
+>Type out ```node main.js```
 
 
 ### Cloning the repo
