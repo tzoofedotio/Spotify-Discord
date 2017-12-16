@@ -3,17 +3,19 @@
 @phineas's version of this is way better than this.
 
 
-![alt text](https://apple.isgay.lol/R9mYIgq.png)
+![img](https://apple.isgay.lol/R9mYIgq.png)
 
+## You need those in order for this to work
+>Git and NodeJS
 
 ## How to install?
 There are 2 ways of doing this;
+
+
 ### Downloading the zip
+
+
 >Download the zip from the repository
-
->Download NodeJS
-
->Download git
 
 >Extract the zip to a folder
 
@@ -27,3 +29,13 @@ There are 2 ways of doing this;
 
 
 ### Cloning the repo
+
+>Open a command line window in a folder youd like to download this to
+
+>Type out ```git clone https://github.com/tzoofedotio/Spotify-Discord.git```
+
+>Type out *npm install*
+
+>Open Discord and Spotify
+
+>Type out *node main.js*
